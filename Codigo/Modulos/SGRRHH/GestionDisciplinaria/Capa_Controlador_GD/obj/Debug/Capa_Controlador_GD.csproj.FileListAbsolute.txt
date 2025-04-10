@@ -1,0 +1,5 @@
+C:\Users\danie\Desktop\UNIVERSIDAD\proyectois2k25\Codigo\Modulos\SGRRHH\GestionDisciplinaria\Capa_Controlador_GD\bin\Debug\Capa_Controlador_GD.dll
+C:\Users\danie\Desktop\UNIVERSIDAD\proyectois2k25\Codigo\Modulos\SGRRHH\GestionDisciplinaria\Capa_Controlador_GD\bin\Debug\Capa_Controlador_GD.pdb
+C:\Users\danie\Desktop\UNIVERSIDAD\proyectois2k25\Codigo\Modulos\SGRRHH\GestionDisciplinaria\Capa_Controlador_GD\obj\Debug\Capa_Controlador_GD.csproj.CoreCompileInputs.cache
+C:\Users\danie\Desktop\UNIVERSIDAD\proyectois2k25\Codigo\Modulos\SGRRHH\GestionDisciplinaria\Capa_Controlador_GD\obj\Debug\Capa_Controlador_GD.dll
+C:\Users\danie\Desktop\UNIVERSIDAD\proyectois2k25\Codigo\Modulos\SGRRHH\GestionDisciplinaria\Capa_Controlador_GD\obj\Debug\Capa_Controlador_GD.pdb
